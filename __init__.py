@@ -1,0 +1,1 @@
+print("This is the solar framwork for the StarSys programming language")
